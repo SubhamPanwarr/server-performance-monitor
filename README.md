@@ -1,4 +1,4 @@
-# Server Performance Monitor
+ Server Performance Monitor
 
 A Bash script to monitor basic server performance.
 
@@ -18,5 +18,3 @@ chmod +x server-stats.sh
 # server-performance-monitor
 Basic server performance stats monitoring script
 
-Project URL
-👉 https://github.com/SubhamPanwarr/server-performance-monitor
