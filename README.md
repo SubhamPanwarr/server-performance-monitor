@@ -18,3 +18,6 @@ chmod +x server-stats.sh
 # server-performance-monitor
 Basic server performance stats monitoring script
 
+## Project URL
+
+https://github.com/SubhamPanwarr/server-performance-monitor
