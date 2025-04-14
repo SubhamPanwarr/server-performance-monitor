@@ -20,4 +20,4 @@ Basic server performance stats monitoring script
 
 ## Project URL
 
-https://github.com/SubhamPanwarr/server-performance-monitor
+https://roadmap.sh/projects/server-stats
